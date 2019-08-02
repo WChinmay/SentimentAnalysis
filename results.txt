@@ -1,0 +1,7 @@
+For trainingSet as training data and trainingSet as testing data:
+Matching Entries:  477 / 499
+Accuracy:  0.9559118236472945
+
+For trainingSet as training data and testingSet as testing data:
+Matching Entries:  376 / 497
+Accuracy:  0.7565392354124748
